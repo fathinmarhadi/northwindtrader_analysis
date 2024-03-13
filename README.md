@@ -1,4 +1,17 @@
 # Northwind Trader Analysis 
+This is my analytical repository of Sales and order data for Northwind Traders from [Maven Analytics](https://mavenanalytics.io "Maven Analytics"), a fictional gourmet food supplier, including information about customers, products, orders, shippers, and employees. I conducted 4 analysis consisting of:
+- [**Customer Segmentation Analysis**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Customer%20Segmentation%20Analysis.sql "Customer Segmentation Analysis")
+- [**Geographical Analysis and Market Penetration**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Geographical%20Analysis%20and%20Market%20Penetration.sql "**Geographical Analysis and Market Penetration**")
+- [**Order Fulfillment and Supply Chain Optimization**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Order%20Fulfillment%20and%20Supply%20Chain%20Optimization.sql "**Order Fulfillment and Supply Chain Optimization**")
+- [**Product Performance and Market Basket Analysis**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Product%20Performance%20and%20Market%20Basket%20Analysis.sql "**Product Performance and Market Basket Analysis**")
+
+
+
+The analysis was carried out using SQL as a tool.
+
+You can visit the [Maven Analytics Playground](https://mavenanalytics.io/data-playground?search=north "Maven Analytics Playground") to access the available datasets.
+
+###### *Documentation of the analysis results will be published soon*
 ### Data Dictionary 
 |Table        |Field          |Description                                                                                     |
 |-------------|---------------|------------------------------------------------------------------------------------------------|
@@ -40,16 +53,4 @@
 |shippers     |companyName    |The name of the company that provides shipping services 
 
 
-This is my analytical repository of Sales and order data for Northwind Traders from [Maven Analytics](https://mavenanalytics.io "Maven Analytics"), a fictional gourmet food supplier, including information about customers, products, orders, shippers, and employees. I conducted 4 analysis consisting of:
-- [**Customer Segmentation Analysis**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Customer%20Segmentation%20Analysis.sql "Customer Segmentation Analysis")
-- [**Geographical Analysis and Market Penetration**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Geographical%20Analysis%20and%20Market%20Penetration.sql "**Geographical Analysis and Market Penetration**")
-- [**Order Fulfillment and Supply Chain Optimization**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Order%20Fulfillment%20and%20Supply%20Chain%20Optimization.sql "**Order Fulfillment and Supply Chain Optimization**")
-- [**Product Performance and Market Basket Analysis**](https://github.com/fathinmarhadi/northwindtrader_analysis/blob/f0d39b538bff2613e20ee202ded19f82a2ea0549/Product%20Performance%20and%20Market%20Basket%20Analysis.sql "**Product Performance and Market Basket Analysis**")
 
-
-
-The analysis was carried out using SQL as a tool.
-
-You can visit the [Maven Analytics Playground](https://mavenanalytics.io/data-playground?search=north "Maven Analytics Playground") to access the available datasets.
-
-###### *Documentation of the analysis results will be published soon*
